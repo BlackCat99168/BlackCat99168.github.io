@@ -2,36 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blackcat99168.github.io/2024/01/20/earth-history-1/</loc>
-    
-    <lastmod>2024-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blackcat99168.github.io/2024/01/19/earth-history-0/</loc>
     
-    <lastmod>2024-01-19</lastmod>
+    <lastmod>2024-01-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blackcat99168.github.io/2024/01/17/hello-world/</loc>
+    <loc>https://blackcat99168.github.io/about/index.html</loc>
     
-    <lastmod>2024-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blackcat99168.github.io/categories/index.html</loc>
-    
-    <lastmod>2024-01-19</lastmod>
+    <lastmod>2024-01-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +22,16 @@
   <url>
     <loc>https://blackcat99168.github.io/tags/index.html</loc>
     
-    <lastmod>2024-01-19</lastmod>
+    <lastmod>2024-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blackcat99168.github.io/categories/index.html</loc>
+    
+    <lastmod>2024-01-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -54,20 +45,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://blackcat99168.github.io/tags/test/</loc>
-    <lastmod>2024-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blackcat99168.github.io/tags/test2/</loc>
-    <lastmod>2024-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://blackcat99168.github.io/tags/%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%B8/</loc>
@@ -91,13 +68,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>https://blackcat99168.github.io/categories/test/</loc>
-    <lastmod>2024-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://blackcat99168.github.io/categories/%E5%9C%B0%E7%90%83%E6%AD%B7%E5%8F%B2/</loc>
